@@ -1,4 +1,3 @@
-
 /**
  * Implement the Stack with a given interface via array.
  *
